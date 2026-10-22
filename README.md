@@ -1,1 +1,2 @@
-# Python_Kaggle_EV_Prediction
+# Build an ensemble model for *`Predicting Electric Vehicle Purchases`* using,
+#   XGBoost , LightGBM , CatBoost
